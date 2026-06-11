@@ -1,0 +1,43 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+:root {
+  --cream: #FAF7F2;
+  --beige: #F3ECE4;
+  --terra: #C68663;
+  --terra-dark: #A96B48;
+  --nude: #D8B7A6;
+  --ink: #1E1E1E;
+  --warm-muted: #6F6A66;
+  --border-soft: #E8DED5;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background-color: var(--cream);
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background-color: #D8B7A630;
+    color: #1E1E1E;
+  }
+}

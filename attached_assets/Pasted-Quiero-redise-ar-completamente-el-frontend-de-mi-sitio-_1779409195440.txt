@@ -1,0 +1,505 @@
+Quiero rediseñar completamente el frontend de mi sitio web para que tenga una estética premium, femenina, moderna y elegante inspirada en este diseño de referencia:
+
+https://es.weblium.com/templates/demo/beauty-course-website-design-320
+
+NO copies el HTML exacto ni assets protegidos.
+La tarea es recrear el estilo visual, composición, experiencia de usuario, estructura visual y sistema de diseño.
+
+Objetivo general
+Transformar el sitio en una experiencia visual minimalista y sofisticada enfocada en:
+
+lujo moderno
+
+belleza estética
+
+diseño editorial
+
+sensación premium
+
+espacios amplios
+
+tipografía elegante
+
+colores suaves y femeninos
+
+bloques visuales grandes
+
+experiencia tipo landing page moderna
+
+DIRECCIÓN VISUAL GLOBAL
+Estilo general
+El sitio debe verse:
+
+limpio
+
+moderno
+
+elegante
+
+editorial
+
+minimalista
+
+aspiracional
+
+premium
+
+visualmente aireado
+
+Evitar:
+
+bordes agresivos
+
+sombras pesadas
+
+colores saturados
+
+interfaces tipo dashboard
+
+exceso de elementos
+
+apariencia corporativa tradicional
+
+La experiencia debe parecer una mezcla entre:
+
+revista de lujo
+
+landing page de beauty brand
+
+academia premium
+
+diseño lifestyle moderno
+
+PALETA DE COLORES
+Colores principales
+Fondo principal
+blanco cálido: #FAF7F2
+
+Fondo secundario
+beige claro: #F3ECE4
+
+Color de acento
+terracota suave: #C68663
+
+Texto principal
+negro suave: #1E1E1E
+
+Texto secundario
+gris cálido: #6F6A66
+
+Elementos decorativos
+nude rosado: #D8B7A6
+
+TIPOGRAFÍA
+Títulos
+Usar una tipografía serif elegante estilo:
+
+Playfair Display
+
+Cormorant Garamond
+
+Libre Baskerville
+
+Características:
+
+tamaño grande
+
+tracking ligero
+
+alto contraste
+
+apariencia editorial
+
+Textos y botones
+Usar sans-serif moderna:
+
+Inter
+
+Poppins
+
+Manrope
+
+Características:
+
+limpia
+
+minimalista
+
+muy legible
+
+pesos ligeros
+
+ESTRUCTURA VISUAL
+Layout general
+máximo ancho: 1200px
+
+mucho espacio en blanco
+
+secciones altas
+
+padding vertical amplio
+
+grid limpio
+
+bloques visuales asimétricos
+
+imágenes grandes y dominantes
+
+HEADER / NAVBAR
+Diseño
+Navbar minimalista y transparente inicialmente.
+
+Comportamiento
+transparente sobre hero
+
+al hacer scroll:
+
+fondo blanco semitransparente
+
+blur suave
+
+sombra muy ligera
+
+Elementos
+Logo
+elegante
+
+minimalista
+
+negro o terracota
+
+Menú
+Links:
+
+Inicio
+
+Cursos
+
+Nosotros
+
+Resultados
+
+Contacto
+
+Botón CTA
+Diseño:
+
+bordes redondeados tipo píldora
+
+fondo terracota
+
+texto blanco
+
+hover suave
+
+HERO SECTION
+Diseño principal
+Hero de pantalla completa.
+
+Layout
+2 columnas:
+
+Izquierda
+texto principal
+
+subtítulo
+
+botones
+
+Derecha
+imagen grande lifestyle/fashion/beauty
+
+Tipografía del hero
+Título
+Muy grande:
+
+64px desktop
+
+serif elegante
+
+interlineado compacto
+
+Ejemplo visual:
+“Transform Your Beauty Career”
+
+Subtítulo
+ancho limitado
+
+gris cálido
+
+tamaño mediano
+
+respiración amplia
+
+Botones hero
+Primario
+terracota
+
+pill shape
+
+hover con transición suave
+
+Secundario
+transparente
+
+borde fino
+
+hover minimalista
+
+IMÁGENES
+Estilo de imágenes
+Todas las imágenes deben:
+
+tener apariencia editorial
+
+tonos cálidos
+
+iluminación natural
+
+estilo fashion/luxury
+
+encuadres limpios
+
+Tratamiento visual
+bordes redondeados suaves
+
+overflow hidden
+
+algunas imágenes parcialmente superpuestas
+
+composiciones asimétricas
+
+SECCIONES
+1. Sección “Sobre Nosotros”
+Layout
+imagen grande a la izquierda
+
+texto a la derecha
+
+Estilo
+mucho espacio negativo
+
+títulos serif grandes
+
+detalles minimalistas
+
+2. Cards de cursos o servicios
+Diseño de cards
+Cards minimalistas premium.
+
+Características
+fondo beige claro
+
+bordes redondeados grandes
+
+sin sombras fuertes
+
+hover:
+
+elevación suave
+
+transición lenta
+
+zoom mínimo
+
+Contenido
+imagen superior
+
+categoría pequeña
+
+título elegante
+
+descripción breve
+
+CTA minimalista
+
+3. Estadísticas / números
+Diseño
+Bloques simples y grandes.
+
+Tipografía
+números enormes
+
+serif elegante
+
+subtítulos minimalistas
+
+4. Testimonios
+Diseño
+cards amplias
+
+fondo blanco
+
+quotes elegantes
+
+estrellas minimalistas
+
+avatar circular
+
+5. CTA Final
+Fondo
+beige cálido
+
+imagen decorativa suave
+
+Contenido
+título grande
+
+botón central destacado
+
+composición centrada
+
+FOOTER
+Estilo
+minimalista
+
+mucho espacio
+
+líneas finas
+
+tipografía pequeña elegante
+
+Estructura
+logo
+
+navegación
+
+redes sociales
+
+copyright
+
+EFECTOS Y ANIMACIONES
+Animaciones
+Usar animaciones suaves y premium:
+
+Fade in
+al hacer scroll
+
+Hover
+transiciones lentas
+
+easing elegante
+
+Botones
+microinteracciones suaves
+
+Imágenes
+zoom muy sutil
+
+NO usar:
+
+animaciones agresivas
+
+bounce
+
+efectos exagerados
+
+ESTILO RESPONSIVE
+Mobile
+En móviles:
+
+layout vertical
+
+hero centrado
+
+imágenes full width
+
+tipografía ajustada
+
+botones grandes táctiles
+
+Mantener:
+
+elegancia
+
+aire visual
+
+espacios amplios
+
+DETALLES IMPORTANTES
+Bordes
+border-radius grande:
+
+16px
+
+24px
+
+32px
+
+Sombras
+Muy suaves:
+
+blur amplio
+
+baja opacidad
+
+Espaciado
+Muy generoso:
+
+padding amplio
+
+separación clara entre bloques
+
+UX
+La experiencia debe sentirse:
+
+fluida
+
+moderna
+
+premium
+
+emocional
+
+aspiracional
+
+IMPLEMENTACIÓN TÉCNICA
+Frontend
+Usar:
+
+React
+
+TailwindCSS
+
+Framer Motion para animaciones
+
+Crear
+componentes reutilizables
+
+sistema de diseño consistente
+
+variables globales de color
+
+tipografía global
+
+spacing system
+
+IMPORTANTE
+No copiar literalmente el template original.
+
+Recrear:
+
+estética
+
+composición
+
+sensación visual
+
+experiencia premium
+
+estructura moderna
+
+identidad editorial elegante
+
+con assets originales y código limpio.
+
+Resultado esperado
+El sitio final debe parecer:
+
+una marca premium de belleza
+
+una academia moderna de lujo
+
+una landing page editorial de alta conversión
+
+una experiencia visual sofisticada y minimalista.
